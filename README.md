@@ -110,6 +110,8 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source dynamic rendering engine that makes JavaScript content visible to Google, Bing, and AI bots like ChatGPT and Perplexity. Fixes indexing problems on React, Vue, and Angular sites without requiring code changes or SSR migration.
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
+- [AI Bot Checker — Is My Brand in AI](https://ismybrandinai.com/tools/ai-bot-checker) - Reads a domain's robots.txt and shows which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, BingBot) are allowed or blocked. Free, no signup.
+- [llms.txt Generator — Is My Brand in AI](https://ismybrandinai.com/tools/llms-txt-generator) - Builds a spec-compliant llms.txt file in the browser. Free, no signup.
 
 
 ## Rank Tracking
